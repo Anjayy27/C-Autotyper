@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\Spamma\Spamma\bin\Debug\Spamma.exe.config
+C:\Users\sam\source\repos\Spamma\Spamma\bin\Debug\Spamma.exe
+C:\Users\sam\source\repos\Spamma\Spamma\bin\Debug\Spamma.pdb
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.csproj.AssemblyReference.cache
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.csproj.SuggestedBindingRedirects.cache
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.Form1.resources
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.Properties.Resources.resources
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.csproj.GenerateResource.cache
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.csproj.CoreCompileInputs.cache
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.exe
+C:\Users\sam\source\repos\Spamma\Spamma\obj\Debug\Spamma.pdb
